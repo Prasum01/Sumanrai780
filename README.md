@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Suman Rai or known as Prasum
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning next js
-- 💞️ I’m looking to collaborate on whatever or whomever
+- 💞️ I’m looking to collaborate on python
 - 📫 How to reach me - through my mail -> sumpra907@gmail.com 
 
 
