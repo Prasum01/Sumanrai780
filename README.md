@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sumanrai780
+- 👋 Hi, I’m Suman Rai or known as Prasum
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning next js
 - 💞️ I’m looking to collaborate on whatever or whomever
