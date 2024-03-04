@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning next js
 - 💞️ I’m looking to collaborate on python
-- 📫 How to reach me - through my mail -> sumpra907@gmail.com 
+- 📫 How to reach me - through my optional mail -> sumpra17@gmail.com 
 
 
 <!---
